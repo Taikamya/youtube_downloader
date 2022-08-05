@@ -1,3 +1,7 @@
+# Project files
+settings.py
+local_settings.py
+
 # Virtual environment folders
 venv
 
