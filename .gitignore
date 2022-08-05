@@ -1,6 +1,7 @@
-# Project files
+# Project files and folders
 settings.py
 local_settings.py
+downloads/*
 
 # Virtual environment folders
 venv
