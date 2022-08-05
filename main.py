@@ -6,10 +6,10 @@ from settings import URL
 # url = input("What's the YT URL? \n")
 
 # hard-coded link -- ONLY USE FOR TESTING --
-url = URL
+# url = URL
 
 # link from first argument in the CLI
-# url = argv[1]
+url = argv[1]
 
 def secure_url() -> str:
     '''Secure URL check function'''
