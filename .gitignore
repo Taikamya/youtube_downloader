@@ -1,0 +1,11 @@
+# Virtual environment folders
+venv
+
+# Python related
+*.pyc
+__pycache__/
+*.log
+local_settings.py
+
+# Distribution / packaging
+.Python
