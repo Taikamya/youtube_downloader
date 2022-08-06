@@ -29,7 +29,7 @@ def download(link) -> None:
 
 # YT link
 yt_obj = YouTube(secure_url())
-# Highest resolution available
+# Highest resolution available up to 720p "progressive stream"
 downloader_obj = yt_obj.streams.get_highest_resolution()
 
 
